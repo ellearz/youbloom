@@ -9,13 +9,13 @@
       "title": "Eminem",
       "description": "Don't miss Eminem's electrifying concert in Detroit this December! Witness the rap legend perform his greatest hits live in an unforgettable night of music.",
       "date": "15.12.2024",
-      "photo": "assets/adele.jpg" 
+      "photo": "assets/eminem.jpg" 
     },
     {
       "title": "Adele",
       "description": "Adele is back on stage for a special concert in Las Vegas this January! Experience her soulful voice and emotional songs in a mesmerizing live performance.",
       "date": "20.01.2025",
-      "photo": "assets/eminem.jpeg" 
+      "photo": "assets/adele.jpeg" 
     }
   ]
   
